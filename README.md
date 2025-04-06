@@ -22,8 +22,6 @@ Project Link: https://jolly-desert-08837a500.1.azurestaticapps.net/
 
 ![Screenshot (46)](https://user-images.githubusercontent.com/61285140/152784685-5e0af7c8-a33a-4b40-9bce-5787015657c9.png)
 
-![Screenshot (47)](https://user-images.githubusercontent.com/61285140/152784704-268d85b7-1723-4a71-ba3b-fbc1f18f8e1b.png)
-
 ![Screenshot (48)](https://user-images.githubusercontent.com/61285140/152784709-b1f0b842-cf93-4538-9b99-d1c948dbf8f3.png)
 
 ## Techstack
